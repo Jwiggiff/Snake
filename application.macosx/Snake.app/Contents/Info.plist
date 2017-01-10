@@ -21,15 +21,15 @@
 
     <!-- Customize this set as you wish -->
     <key>CFBundleShortVersionString</key>
-    <string>1</string>
+    <string>2.0</string>
     <key>CFBundleVersion</key>
-    <string>1</string>
+    <string>2.0</string>
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>NSHumanReadableCopyright</key>
-    <string>Your copyright here</string>
+    <string>(c) Josh Friedman. All Rights Reserved.</string>
     <key>CFBundleGetInfoString</key>
-    <string>Created with Processing</string>
+    <string>Created by Josh Friedman</string>
     <!-- End of the set that can be customized -->
 
     <key>JVMRuntime</key>
